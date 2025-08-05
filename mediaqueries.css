@@ -172,5 +172,7 @@ h5{
 #msg{
   margin-left:25px;
 }
-
+ .for-control{
+    width: 300px;
+  }
 }
